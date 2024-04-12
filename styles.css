@@ -16,7 +16,7 @@ h1 {
   grid-template-columns: repeat(
     auto-fit,
     minmax(30rem, 1fr)
-  ); /* Adjust the minimum and maximum width as needed */
+  );
   grid-gap: 20px;
 }
 
